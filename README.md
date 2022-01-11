@@ -10,6 +10,8 @@
 - Learning <img align='Top' alt='C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' />
 - Learning <img align='Top' alt='C#' src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' />
 - Learning <img align='Top' alt='C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' />
+- Learning <img align='Top' alt='C++' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+
 #### Here are my links:
 
 [![LinkTree](https://user-images.githubusercontent.com/74081620/148868831-9445c804-5ed8-499c-8626-e19ecdd09e09.png)](https://linktr.ee/ZombieKicker7)
