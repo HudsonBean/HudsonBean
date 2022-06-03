@@ -14,7 +14,7 @@
 
 #### Here is my LinkTree:
 
-[![LinkTree](https://user-images.githubusercontent.com/74081620/148868831-9445c804-5ed8-499c-8626-e19ecdd09e09.png)](https://linktr.ee/ZombieKicker7)
+[![LinkTree](https://user-images.githubusercontent.com/74081620/148868831-9445c804-5ed8-499c-8626-e19ecdd09e09.png)](https://linktr.ee/HudsonBean)
 ---
 <br/>
   
