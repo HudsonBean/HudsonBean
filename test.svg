@@ -4,6 +4,7 @@
         <style>
             p {
                 color: white;
+                font-size: 5rem;
             }
         </style>
         <p>Hello World!</p>
