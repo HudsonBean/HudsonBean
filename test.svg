@@ -8,6 +8,7 @@
             }
         </style>
         <p>Hello World!</p>
+        <a target="_blank" href="https://google.com"></a>
     </div>
 </foreignObject>
 </svg>
