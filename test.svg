@@ -3,16 +3,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             p {
-                color: white;
-                font-size: 5rem;
-            }
-            a {
                 color: blue;
-                font-size: 2.5rem;
+                font-size: 5rem;
+                text-decoration: none;
             }
         </style>
-        <p>Hello World!</p>
+        <a><p>Click Me!</p></a>
     </div>
 </foreignObject>
-<a target="_blank" href="https://google.com">Click Me!</a>
 </svg>
