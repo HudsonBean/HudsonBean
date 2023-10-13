@@ -6,9 +6,13 @@
                 color: white;
                 font-size: 5rem;
             }
+            a {
+                color: blue;
+                font-size: 2.5rem;
+            }
         </style>
         <p>Hello World!</p>
-        <a target="_blank" href="https://google.com"></a>
+        <a target="_blank" href="https://google.com">Click Me!</a>
     </div>
 </foreignObject>
 </svg>
