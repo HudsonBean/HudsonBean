@@ -1,4 +1,4 @@
-# Hi there my name's Hudson and I am a Softwware Engineer 👋
+# CS Student @ UARK | Aspiring Full-Stack Developer 👋👨‍💻
 
 
 
